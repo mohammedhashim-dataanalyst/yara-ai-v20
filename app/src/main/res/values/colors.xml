@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whatsapp_bg">#121212</color>
+    <color name="bubble_dark">#1E1E1E</color>
+    <color name="bubble_user">#FF4B5C</color>
+    <color name="accent_red">#FF4B5C</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#AAAAAA</color>
+</resources>
